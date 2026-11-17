@@ -7,8 +7,6 @@ Right now the repo contains a recent, static draft of the Juypter Notebook for t
 
 The moral machine is a classic thought experiment from the field of artificial intelligence and automation. It sheds light on how human decision making and values are inseparable from autonomous technologies, ultimately reinforcing systemic discrimination. In pairs, you will be designing an autonomous vehicle algorithm that will make a critical decision: save the lives of the passengers or the pedestrians.
 
-This project discusses potentially distressing themes with the purpose of addressing ethical and moral concerns surrounding algorithmic bias, transparency, and justice. Teachers will need to be prepared to discuss and support ethical and moral conversations among students.
-
 Nov 17th, 2026
 
 Included in this repo is the working Java version of the activity. Instead of 1000 scenarios stored in a JSON, the statistics are included within the class definition themselves, allowing for endless randomized simulations and scenarios. 
