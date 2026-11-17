@@ -1,4 +1,4 @@
-# AI-Ethics-Project
+# Integrated-Ethics-Project
 Oct 4th, 2026
 
 Integrated ethics modules for high school CS
